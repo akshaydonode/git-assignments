@@ -1,0 +1,11 @@
+Section_1
+
+1.	Create a github account if you do not have already.
+2.	Login on into github account.
+3.	Create new public repository ‘freshersbatch’.
+4.	Commit & push any sample file to this repository under ‘Assignments’ directory.
+$ git pull origin master --allow-unrelated-histories
+$ git push origin master
+
+Section_2
+
